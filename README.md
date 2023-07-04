@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/json-stream-rs-
 
 Home: https://github.com/smheidrich/py-json-stream-rs-tokenizer
 
-Package license: BSD-3-Clause
+Package license: MIT
 
 Summary: A faster tokenizer for the json-stream Python library
 
